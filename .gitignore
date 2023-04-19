@@ -1,0 +1,7 @@
+﻿/bin
+
+/.vs
+
+/Libraries/02-Windows/Elysium.Logging/Debug
+/Libraries/02-Windows/Elysium.Logging/Debugbin
+/Libraries/02-Windows/Elysium.Logging/Releasebin
